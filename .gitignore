@@ -1,0 +1,5 @@
+# .gitignore
+# Binaries
+/backend/safedoc-backend
+# Ambiente local
+.env
